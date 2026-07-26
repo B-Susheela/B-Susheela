@@ -61,3 +61,9 @@ I'm a passionate Data Analyst who enjoys transforming raw data into meaningful i
 ---
 
 ⭐ Thanks for visiting my GitHub profile!
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=B-Susheela&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=B-Susheela&layout=compact&theme=tokyonight)
