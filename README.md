@@ -1,0 +1,64 @@
+# Hi there, I'm B. Susheela 👋
+
+## 📊 Data Analyst | Python | SQL | Power BI | Excel
+
+I'm a passionate Data Analyst who enjoys transforming raw data into meaningful insights through data cleaning, analysis, and visualization.
+
+🌱 Currently learning Advanced SQL, Pandas, and Power BI DAX.
+
+---
+
+## 🚀 Skills
+
+- 🐍 Python
+- 🗄️ SQL
+- 📊 Power BI
+- 📈 Microsoft Excel
+- 🧹 Data Cleaning
+- 📉 Data Visualization
+- 📑 Data Analysis
+
+---
+
+## 💼 Featured Projects
+
+### 📊 Power BI Dashboard Project
+- Sales Analytics Dashboard
+- Returns Analysis Dashboard
+- KPI Tracking
+- Interactive Visualizations
+
+### 🐍 Python Projects
+- Data Cleaning
+- Data Analysis
+- Automation Scripts
+
+---
+
+## 🛠️ Tools & Technologies
+
+- Python
+- SQL
+- Power BI
+- Excel
+- Git
+- GitHub
+
+---
+
+## 🎯 Goals
+
+- Become a Data Analyst
+- Build impactful data projects
+- Contribute to open-source projects
+- Continuously improve analytical skills
+
+---
+
+## 📫 Connect with Me
+
+- 💼 LinkedIn: https://linkedin.com/in/bsusheela
+
+---
+
+⭐ Thanks for visiting my GitHub profile!
